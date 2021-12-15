@@ -1,15 +1,3 @@
 # Projekt-o-szkoled
-d
-d
-
-d
-d
-d
-
-d
-d
-d
-
-d
-d
-d
+Prosty program mający na celu usprawienie zarządzaniem danymi uczniów. Powstał on w celu doskonalenia umiejętności w języku Java.
+## Technologie
