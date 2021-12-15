@@ -19,3 +19,5 @@ Program należy uruchomić przy pomocy dowolnego edytora kodu źródłowego obł
 * Możliwość wyświetlenia informacji zapisanej w tablicy i zmiana jej
 ## Status projektu
 Projekt jest ukończony jednak nie wyklucza się dalszego rozwoju.
+## Kontakt
+W przypadu chęci współpracy proszę o kontakt, mój mail: mp2000@gmail.com
