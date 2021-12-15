@@ -1,18 +1,19 @@
 # Projekt-o-szkole
 ## Spis treści
-* Informacje ogólne
-* Technologie
-* Uruchomienie
-* Zakres funkcjonalności
-* Status projektu
+* [Informacje ogólne](#Informacje-ogólne)
+* [Technologie](#Technologie)
+* [Uruchomienie](#Uruchomienie)
+* [Zakres funkcjonalności](#Zakres-funkcjonalności)
+* [Status projektu](#Status-projektu)
 ## Informacje ogólne
 Prosty program mający na celu usprawienie zarządzaniem danymi uczniów. Powstał on w celu doskonalenia umiejętności programowania w języku Java.
 ## Technologie
 * Java
+* IntelliJ IDEA
 * java.util.ArrayList
 * java.util.HashMap
 ## Uruchomienie
-Program należy uruchomić przy pomocy dowolnego edytora kodu źródłowego obługującego język Java np IntelliJ IDEA.
+Program należy uruchomić przy pomocy dowolnego edytora kodu źródłowego obługującego język Java.
 ## Zakres funkcjonalności
 * Możliwość dodawania uczniów
 * Możliwość dodawania średnej osiągniętej przez uczniów
